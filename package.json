@@ -12,11 +12,11 @@
 		"electron",
 		"javascript"
 	],
-	"homepage": "https://github.com/mi-g/joclyboard",
+	"homepage": "https://github.com/ecobabush/joclyboard",
 	"author": {
-		"name": "Michel Gutierrez",
+		"name": "ecobabush",
 		"email": "mig@jocly.com",
-		"url": "https://github.com/mi-g"
+		"url": "https://github.com/ecobabush"
 	},
 	"repository": {
 		"type": "git",
@@ -40,7 +40,7 @@
 				"tar.gz",
 				"AppImage"
 			],
-			"maintainer": "Michel Gutierrez <mig@jocly.com> (https://github.com/mi-g)"
+			"maintainer": "Michel Gutierrez <mig@jocly.com> (https://github.com/ecobabush)"
 		},
 		"win": {
 			"target": [
@@ -59,7 +59,7 @@
 		},
 		"publish": {
 			"provider": "github",
-			"owner": "mi-g",
+			"owner": "ecobabush",
 			"repo": "joclyboard"
 		}
 	},
